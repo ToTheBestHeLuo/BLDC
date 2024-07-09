@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "mccontrol.h": "c",
+        "cstdio": "c",
+        "mcconfig.h": "c",
+        "mctable.h": "c",
+        "mctype.h": "c",
+        "hal_adc.h": "c",
+        "mccmd.h": "c",
+        "mcglobal.h": "c",
+        "mcsensorless.h": "c"
+    }
+}
